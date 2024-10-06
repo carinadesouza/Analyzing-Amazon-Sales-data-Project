@@ -1,0 +1,379 @@
+2024-09-04 14:56:09,314 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-04 14:56:09,314 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-04 14:56:09,314 - INFO -  * Restarting with stat
+2024-09-04 14:56:09,676 - WARNING -  * Debugger is active!
+2024-09-04 14:56:09,681 - INFO -  * Debugger PIN: 621-611-194
+2024-09-04 14:56:25,696 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-04 14:56:25,696 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-04 14:56:25,697 - INFO -  * Restarting with stat
+2024-09-04 14:56:26,057 - WARNING -  * Debugger is active!
+2024-09-04 14:56:26,061 - INFO -  * Debugger PIN: 621-611-194
+2024-09-04 14:56:34,585 - INFO - GET / - 200 - 0.0018s
+2024-09-04 14:56:34,585 - INFO - 127.0.0.1 - - [04/Sep/2024 14:56:34] "GET / HTTP/1.1" 200 -
+2024-09-04 14:56:53,632 - INFO - Received data: {'order_month': 9, 'order_year': 2023, 'price_ratio': 0.8, 'rating': 4.5}
+2024-09-04 14:56:53,633 - INFO - Prediction: 5211.024998714391
+2024-09-04 14:56:53,633 - INFO - POST /predict - 200 - 0.0040s
+2024-09-04 14:56:53,633 - INFO - 127.0.0.1 - - [04/Sep/2024 14:56:53] "POST /predict HTTP/1.1" 200 -
+2024-09-04 15:09:13,519 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-04 15:09:13,621 - INFO -  * Restarting with stat
+2024-09-04 15:09:14,318 - WARNING -  * Debugger is active!
+2024-09-04 15:09:14,323 - INFO -  * Debugger PIN: 621-611-194
+2024-09-04 15:09:15,386 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-04 15:09:15,443 - INFO -  * Restarting with stat
+2024-09-04 15:09:15,817 - WARNING -  * Debugger is active!
+2024-09-04 15:09:15,821 - INFO -  * Debugger PIN: 621-611-194
+2024-09-08 23:05:17,237 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 23:05:17,237 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 23:05:17,238 - INFO -  * Restarting with stat
+2024-09-08 23:05:17,617 - WARNING -  * Debugger is active!
+2024-09-08 23:05:17,622 - INFO -  * Debugger PIN: 103-320-281
+2024-09-08 23:05:27,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-08 23:05:27,191 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-08 23:05:27,191 - INFO -  * Restarting with stat
+2024-09-08 23:05:27,584 - WARNING -  * Debugger is active!
+2024-09-08 23:05:27,594 - INFO -  * Debugger PIN: 103-320-281
+2024-09-30 16:32:22,782 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-30 16:32:22,782 - INFO - [33mPress CTRL+C to quit[0m
+2024-09-30 16:32:22,783 - INFO -  * Restarting with stat
+2024-09-30 16:32:23,241 - WARNING -  * Debugger is active!
+2024-09-30 16:32:23,248 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:33:34,812 - INFO - GET / - 200 - 0.0038s
+2024-09-30 16:33:34,812 - INFO - 127.0.0.1 - - [30/Sep/2024 16:33:34] "GET / HTTP/1.1" 200 -
+2024-09-30 16:33:34,824 - INFO - GET /apple-touch-icon-precomposed.png - 404 - 0.0003s
+2024-09-30 16:33:34,824 - INFO - 127.0.0.1 - - [30/Sep/2024 16:33:34] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2024-09-30 16:33:34,832 - INFO - GET /apple-touch-icon.png - 404 - 0.0003s
+2024-09-30 16:33:34,833 - INFO - 127.0.0.1 - - [30/Sep/2024 16:33:34] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2024-09-30 16:33:34,839 - INFO - GET /favicon.ico - 404 - 0.0002s
+2024-09-30 16:33:34,839 - INFO - 127.0.0.1 - - [30/Sep/2024 16:33:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-30 16:40:28,170 - INFO - Received data: {'order_month': 10, 'order_year': 2024, 'price_ratio': 0.36, 'rating': 4.2}
+2024-09-30 16:40:28,171 - INFO - Prediction: 1798.6950178367551
+2024-09-30 16:40:28,172 - INFO - POST /predict - 200 - 0.0064s
+2024-09-30 16:40:28,172 - INFO - 127.0.0.1 - - [30/Sep/2024 16:40:28] "POST /predict HTTP/1.1" 200 -
+2024-09-30 16:51:25,799 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:26,207 - INFO -  * Restarting with stat
+2024-09-30 16:51:27,100 - WARNING -  * Debugger is active!
+2024-09-30 16:51:27,108 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:32,383 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:32,437 - INFO -  * Restarting with stat
+2024-09-30 16:51:33,232 - WARNING -  * Debugger is active!
+2024-09-30 16:51:33,241 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:35,345 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:35,396 - INFO -  * Restarting with stat
+2024-09-30 16:51:36,010 - WARNING -  * Debugger is active!
+2024-09-30 16:51:36,015 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:37,104 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:37,331 - INFO -  * Restarting with stat
+2024-09-30 16:51:38,321 - WARNING -  * Debugger is active!
+2024-09-30 16:51:38,328 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:39,458 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:39,598 - INFO -  * Restarting with stat
+2024-09-30 16:51:40,501 - WARNING -  * Debugger is active!
+2024-09-30 16:51:40,508 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:41,670 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:41,889 - INFO -  * Restarting with stat
+2024-09-30 16:51:43,090 - WARNING -  * Debugger is active!
+2024-09-30 16:51:43,100 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:51:44,252 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:51:44,333 - INFO -  * Restarting with stat
+2024-09-30 16:51:45,218 - WARNING -  * Debugger is active!
+2024-09-30 16:51:45,223 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:52:20,628 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:52:20,706 - INFO -  * Restarting with stat
+2024-09-30 16:52:21,528 - WARNING -  * Debugger is active!
+2024-09-30 16:52:21,534 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:54:55,312 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:54:55,372 - INFO -  * Restarting with stat
+2024-09-30 16:54:55,935 - WARNING -  * Debugger is active!
+2024-09-30 16:54:55,940 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:54:58,036 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:54:58,099 - INFO -  * Restarting with stat
+2024-09-30 16:54:58,569 - WARNING -  * Debugger is active!
+2024-09-30 16:54:58,572 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 16:55:21,344 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 16:55:21,401 - INFO -  * Restarting with stat
+2024-09-30 16:55:21,839 - WARNING -  * Debugger is active!
+2024-09-30 16:55:21,843 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:00:13,430 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:00:13,492 - INFO -  * Restarting with stat
+2024-09-30 17:00:14,087 - WARNING -  * Debugger is active!
+2024-09-30 17:00:14,093 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:00:53,262 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:00:53,321 - INFO -  * Restarting with stat
+2024-09-30 17:00:53,867 - WARNING -  * Debugger is active!
+2024-09-30 17:00:53,871 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:00:54,929 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:00:54,987 - INFO -  * Restarting with stat
+2024-09-30 17:00:55,458 - WARNING -  * Debugger is active!
+2024-09-30 17:00:55,462 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:00:57,543 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:00:57,600 - INFO -  * Restarting with stat
+2024-09-30 17:00:58,034 - WARNING -  * Debugger is active!
+2024-09-30 17:00:58,038 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:01:01,123 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:01:01,170 - INFO -  * Restarting with stat
+2024-09-30 17:01:01,626 - WARNING -  * Debugger is active!
+2024-09-30 17:01:01,630 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:01:03,738 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:01:03,796 - INFO -  * Restarting with stat
+2024-09-30 17:01:04,227 - WARNING -  * Debugger is active!
+2024-09-30 17:01:04,231 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:05:38,065 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:05:38,132 - INFO -  * Restarting with stat
+2024-09-30 17:05:38,673 - WARNING -  * Debugger is active!
+2024-09-30 17:05:38,677 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:05:43,874 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:05:43,934 - INFO -  * Restarting with stat
+2024-09-30 17:05:44,373 - WARNING -  * Debugger is active!
+2024-09-30 17:05:44,377 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:05:54,731 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:05:54,785 - INFO -  * Restarting with stat
+2024-09-30 17:05:55,237 - WARNING -  * Debugger is active!
+2024-09-30 17:05:55,241 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:06:01,443 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:06:01,504 - INFO -  * Restarting with stat
+2024-09-30 17:06:01,991 - WARNING -  * Debugger is active!
+2024-09-30 17:06:01,995 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:06:04,070 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:06:04,126 - INFO -  * Restarting with stat
+2024-09-30 17:06:04,595 - WARNING -  * Debugger is active!
+2024-09-30 17:06:04,599 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:07:02,531 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:07:02,589 - INFO -  * Restarting with stat
+2024-09-30 17:07:03,145 - WARNING -  * Debugger is active!
+2024-09-30 17:07:03,150 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:07:17,645 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:07:17,704 - INFO -  * Restarting with stat
+2024-09-30 17:07:18,262 - WARNING -  * Debugger is active!
+2024-09-30 17:07:18,266 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:07:54,444 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:07:54,498 - INFO -  * Restarting with stat
+2024-09-30 17:07:54,971 - WARNING -  * Debugger is active!
+2024-09-30 17:07:54,975 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:07:59,110 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:07:59,161 - INFO -  * Restarting with stat
+2024-09-30 17:07:59,638 - WARNING -  * Debugger is active!
+2024-09-30 17:07:59,642 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:08:00,694 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:08:00,752 - INFO -  * Restarting with stat
+2024-09-30 17:08:01,203 - WARNING -  * Debugger is active!
+2024-09-30 17:08:01,207 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:08:04,327 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:08:04,380 - INFO -  * Restarting with stat
+2024-09-30 17:08:04,816 - WARNING -  * Debugger is active!
+2024-09-30 17:08:04,820 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:08:05,878 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:08:05,935 - INFO -  * Restarting with stat
+2024-09-30 17:08:06,390 - WARNING -  * Debugger is active!
+2024-09-30 17:08:06,394 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:08:11,572 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:08:11,623 - INFO -  * Restarting with stat
+2024-09-30 17:08:12,096 - WARNING -  * Debugger is active!
+2024-09-30 17:08:12,100 - INFO -  * Debugger PIN: 621-611-194
+2024-09-30 17:08:13,158 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/Analyzing Amazon Sales Data.py', reloading
+2024-09-30 17:08:13,222 - INFO -  * Restarting with stat
+2024-09-30 17:08:13,693 - WARNING -  * Debugger is active!
+2024-09-30 17:08:13,697 - INFO -  * Debugger PIN: 621-611-194
+2024-10-02 12:16:11,291 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:16:11,292 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:16:11,292 - INFO - Scheduler started
+2024-10-02 12:16:11,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:16:11,349 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:16:11,350 - INFO -  * Restarting with stat
+2024-10-02 12:16:11,846 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:16:11,846 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:16:11,846 - INFO - Scheduler started
+2024-10-02 12:16:11,857 - WARNING -  * Debugger is active!
+2024-10-02 12:16:11,864 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:16:25,558 - INFO - GET / - 200 - 0.0044s
+2024-10-02 12:16:25,559 - INFO - 127.0.0.1 - - [02/Oct/2024 12:16:25] "GET / HTTP/1.1" 200 -
+2024-10-02 12:19:49,767 - INFO - GET / - 200 - 0.0065s
+2024-10-02 12:19:49,769 - INFO - 127.0.0.1 - - [02/Oct/2024 12:19:49] "GET / HTTP/1.1" 200 -
+2024-10-02 12:19:49,789 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:19:49,789 - INFO - 127.0.0.1 - - [02/Oct/2024 12:19:49] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:19:55,046 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:19:55,047 - INFO - 127.0.0.1 - - [02/Oct/2024 12:19:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:19:55,665 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:19:55,666 - INFO - 127.0.0.1 - - [02/Oct/2024 12:19:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:21:13,778 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:21:13,779 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:21:13,779 - INFO - Scheduler started
+2024-10-02 12:21:13,816 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:21:13,816 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:21:13,817 - INFO -  * Restarting with stat
+2024-10-02 12:21:14,273 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:21:14,273 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:21:14,274 - INFO - Scheduler started
+2024-10-02 12:21:14,284 - WARNING -  * Debugger is active!
+2024-10-02 12:21:14,290 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:21:53,003 - INFO - GET / - 200 - 0.0064s
+2024-10-02 12:21:53,004 - INFO - 127.0.0.1 - - [02/Oct/2024 12:21:53] "GET / HTTP/1.1" 200 -
+2024-10-02 12:21:53,012 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:21:53,012 - INFO - 127.0.0.1 - - [02/Oct/2024 12:21:53] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:22:13,396 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/app.py', reloading
+2024-10-02 12:22:13,463 - INFO -  * Restarting with stat
+2024-10-02 12:22:14,056 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:22:14,056 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:22:14,056 - INFO - Scheduler started
+2024-10-02 12:22:32,403 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:22:32,404 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:22:32,404 - INFO - Scheduler started
+2024-10-02 12:22:32,445 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:22:32,445 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:22:32,446 - INFO -  * Restarting with stat
+2024-10-02 12:22:32,891 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:22:32,891 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:22:32,891 - INFO - Scheduler started
+2024-10-02 12:22:32,903 - WARNING -  * Debugger is active!
+2024-10-02 12:22:32,909 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:22:52,668 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:22:52,668 - INFO - 127.0.0.1 - - [02/Oct/2024 12:22:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:23:11,309 - INFO - GET /apple-touch-icon-precomposed.png - 404 - 0.0002s
+2024-10-02 12:23:11,310 - INFO - GET /apple-touch-icon.png - 404 - 0.0001s
+2024-10-02 12:23:11,311 - INFO - GET /favicon.ico - 404 - 0.0001s
+2024-10-02 12:23:11,311 - INFO - 127.0.0.1 - - [02/Oct/2024 12:23:11] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2024-10-02 12:23:11,311 - INFO - 127.0.0.1 - - [02/Oct/2024 12:23:11] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2024-10-02 12:23:11,311 - INFO - 127.0.0.1 - - [02/Oct/2024 12:23:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-10-02 12:25:54,313 - INFO - GET /get_logs - 404 - 0.0005s
+2024-10-02 12:25:54,314 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:54] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:55,052 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:25:55,053 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:55,521 - INFO - GET /get_logs - 404 - 0.0005s
+2024-10-02 12:25:55,521 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:55,721 - INFO - GET /get_logs - 404 - 0.0005s
+2024-10-02 12:25:55,722 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:55,891 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:25:55,892 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:55] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:56,051 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:25:56,051 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:56] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:56,196 - INFO - GET /get_logs - 404 - 0.0005s
+2024-10-02 12:25:56,197 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:56] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:25:56,349 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:25:56,350 - INFO - 127.0.0.1 - - [02/Oct/2024 12:25:56] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:10,415 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-10-02 12:27:10,415 - INFO - Added job "<lambda>" to job store "default"
+2024-10-02 12:27:10,415 - INFO - Scheduler started
+2024-10-02 12:27:10,437 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:27:10,437 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:27:19,635 - INFO - GET / - 200 - 0.0042s
+2024-10-02 12:27:19,636 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:19] "GET / HTTP/1.1" 200 -
+2024-10-02 12:27:19,640 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:19,641 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:19] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:49,895 - INFO - GET / - 200 - 0.0003s
+2024-10-02 12:27:49,896 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:49] "GET / HTTP/1.1" 200 -
+2024-10-02 12:27:49,899 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:49,900 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:49] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:50,454 - INFO - GET / - 200 - 0.0003s
+2024-10-02 12:27:50,454 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "GET / HTTP/1.1" 200 -
+2024-10-02 12:27:50,458 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:50,458 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:50,603 - INFO - GET / - 200 - 0.0003s
+2024-10-02 12:27:50,604 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "GET / HTTP/1.1" 200 -
+2024-10-02 12:27:50,607 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:50,608 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:50,773 - INFO - GET / - 200 - 0.0003s
+2024-10-02 12:27:50,774 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "GET / HTTP/1.1" 200 -
+2024-10-02 12:27:50,777 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:50,778 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:50] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:51,892 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:27:51,892 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:51] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:52,332 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:27:52,333 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:52,493 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:27:52,494 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:52,652 - INFO - GET /get_logs - 404 - 0.0001s
+2024-10-02 12:27:52,653 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:52,791 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:27:52,791 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:52,945 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:27:52,946 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:52] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:27:53,078 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:27:53,078 - INFO - 127.0.0.1 - - [02/Oct/2024 12:27:53] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:28:06,082 - INFO - Received data: {'order_month': 10, 'order_year': 2024, 'price_ratio': 2.4, 'rating': 2}
+2024-10-02 12:28:06,082 - INFO - Prediction: 12688.76116609393
+2024-10-02 12:28:06,083 - INFO - POST /predict - 200 - 0.0040s
+2024-10-02 12:28:06,083 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:06] "POST /predict HTTP/1.1" 200 -
+2024-10-02 12:28:10,678 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:28:10,678 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:10] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:28:11,137 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:28:11,137 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:11] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:28:11,297 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:28:11,298 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:11] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:28:11,475 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:28:11,475 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:11] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:28:11,669 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:28:11,669 - INFO - 127.0.0.1 - - [02/Oct/2024 12:28:11] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:29,162 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:29:29,162 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:29:29,163 - INFO -  * Restarting with stat
+2024-10-02 12:29:29,626 - WARNING -  * Debugger is active!
+2024-10-02 12:29:29,632 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:29:34,440 - INFO - GET / - 200 - 0.0042s
+2024-10-02 12:29:34,441 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:34] "GET / HTTP/1.1" 200 -
+2024-10-02 12:29:34,448 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:29:34,448 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:34] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:36,945 - INFO - GET / - 200 - 0.0001s
+2024-10-02 12:29:36,945 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:36] "GET / HTTP/1.1" 200 -
+2024-10-02 12:29:36,948 - INFO - GET /get_logs - 404 - 0.0001s
+2024-10-02 12:29:36,948 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:36] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:46,956 - INFO - Received data: {'order_month': 10, 'order_year': 2024, 'price_ratio': 2.4, 'rating': 2}
+2024-10-02 12:29:46,956 - INFO - Prediction: 12688.76116609393
+2024-10-02 12:29:46,956 - INFO - POST /predict - 200 - 0.0031s
+2024-10-02 12:29:46,956 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:46] "POST /predict HTTP/1.1" 200 -
+2024-10-02 12:29:48,105 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:29:48,105 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:48] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:48,568 - INFO - GET /get_logs - 404 - 0.0046s
+2024-10-02 12:29:48,568 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:48] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:48,740 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:29:48,740 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:48] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:48,894 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:29:48,894 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:48] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:49,062 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:29:49,063 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:49] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:49,238 - INFO - GET /get_logs - 404 - 0.0004s
+2024-10-02 12:29:49,238 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:49] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:29:49,415 - INFO - GET /get_logs - 404 - 0.0003s
+2024-10-02 12:29:49,416 - INFO - 127.0.0.1 - - [02/Oct/2024 12:29:49] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:30:07,951 - INFO - GET /logs - 200 - 0.0026s
+2024-10-02 12:30:07,951 - INFO - 127.0.0.1 - - [02/Oct/2024 12:30:07] "GET /logs HTTP/1.1" 200 -
+2024-10-02 12:31:27,700 - INFO -  * Detected change in '/Users/carinadesouza/Documents/Projects/Python/Analyzing Amazon Sales Data/app.py', reloading
+2024-10-02 12:31:27,793 - INFO -  * Restarting with stat
+2024-10-02 12:31:28,513 - WARNING -  * Debugger is active!
+2024-10-02 12:31:28,519 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:31:36,178 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 12:31:36,178 - INFO - [33mPress CTRL+C to quit[0m
+2024-10-02 12:31:36,178 - INFO -  * Restarting with stat
+2024-10-02 12:31:36,652 - WARNING -  * Debugger is active!
+2024-10-02 12:31:36,658 - INFO -  * Debugger PIN: 103-320-281
+2024-10-02 12:31:41,973 - INFO - GET / - 200 - 0.0033s
+2024-10-02 12:31:41,973 - INFO - 127.0.0.1 - - [02/Oct/2024 12:31:41] "GET / HTTP/1.1" 200 -
+2024-10-02 12:31:41,981 - INFO - GET /get_logs - 404 - 0.0001s
+2024-10-02 12:31:41,981 - INFO - 127.0.0.1 - - [02/Oct/2024 12:31:41] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:31:47,262 - INFO - GET /get_logs - 404 - 0.0001s
+2024-10-02 12:31:47,262 - INFO - 127.0.0.1 - - [02/Oct/2024 12:31:47] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:31:57,787 - INFO - Received data: {'order_month': 10, 'order_year': 2024, 'price_ratio': 2.4, 'rating': 2}
+2024-10-02 12:31:57,788 - INFO - Prediction: 12688.76116609393
+2024-10-02 12:31:57,788 - INFO - POST /predict - 200 - 0.0041s
+2024-10-02 12:31:57,788 - INFO - 127.0.0.1 - - [02/Oct/2024 12:31:57] "POST /predict HTTP/1.1" 200 -
+2024-10-02 12:32:02,751 - INFO - GET /get_logs - 404 - 0.0002s
+2024-10-02 12:32:02,752 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:02] "[33mGET /get_logs HTTP/1.1[0m" 404 -
+2024-10-02 12:32:06,350 - INFO - GET /logs - 200 - 0.0058s
+2024-10-02 12:32:06,350 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:06] "GET /logs HTTP/1.1" 200 -
+2024-10-02 12:32:07,166 - INFO - GET /logs - 200 - 0.0022s
+2024-10-02 12:32:07,166 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:07] "GET /logs HTTP/1.1" 200 -
+2024-10-02 12:32:07,321 - INFO - GET /logs - 200 - 0.0015s
+2024-10-02 12:32:07,322 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:07] "GET /logs HTTP/1.1" 200 -
+2024-10-02 12:32:07,476 - INFO - GET /logs - 200 - 0.0023s
+2024-10-02 12:32:07,477 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:07] "GET /logs HTTP/1.1" 200 -
+2024-10-02 12:32:15,823 - INFO - GET /get_logs - 404 - 0.0001s
+2024-10-02 12:32:15,823 - INFO - 127.0.0.1 - - [02/Oct/2024 12:32:15] "[33mGET /get_logs HTTP/1.1[0m" 404 -

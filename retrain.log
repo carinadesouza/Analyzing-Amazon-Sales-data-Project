@@ -1,0 +1,13 @@
+2024-10-03 16:43:17,496 - INFO - Starting model retraining.
+2024-10-03 16:43:22,035 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-03 16:43:22,044 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-03 16:43:24,478 - INFO - Mean Squared Error: 59804675.57378753
+2024-10-03 16:43:24,478 - INFO - R2 Score: 0.04739789491850144
+2024-10-03 16:43:26,386 - INFO - Model retraining completed and saved.
+2024-10-05 18:08:43,479 - INFO - Starting model retraining.
+2024-10-05 18:09:56,609 - INFO - Starting model retraining.
+2024-10-05 18:10:00,386 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-05 18:10:00,396 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-05 18:10:03,072 - INFO - Mean Squared Error: 59804675.57378753
+2024-10-05 18:10:03,072 - INFO - R2 Score: 0.04739789491850144
+2024-10-05 18:10:04,451 - INFO - Model retraining completed and saved.

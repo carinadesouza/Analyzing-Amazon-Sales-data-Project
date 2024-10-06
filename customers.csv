@@ -1,0 +1,1466 @@
+customer_id,location
+CUST1,Australia
+CUST2,North America
+CUST3,South America
+CUST4,North America
+CUST5,North America
+CUST6,North America
+CUST7,Australia
+CUST8,South America
+CUST9,Europe
+CUST10,Asia
+CUST11,Australia
+CUST12,North America
+CUST13,North America
+CUST14,Asia
+CUST15,Europe
+CUST16,South America
+CUST17,North America
+CUST18,Asia
+CUST19,North America
+CUST20,Asia
+CUST21,Europe
+CUST22,Asia
+CUST23,North America
+CUST24,Australia
+CUST25,Europe
+CUST26,Asia
+CUST27,Australia
+CUST28,South America
+CUST29,South America
+CUST30,Asia
+CUST31,Europe
+CUST32,North America
+CUST33,South America
+CUST34,Australia
+CUST35,Australia
+CUST36,Australia
+CUST37,South America
+CUST38,Asia
+CUST39,South America
+CUST40,Europe
+CUST41,Europe
+CUST42,Asia
+CUST43,Australia
+CUST44,South America
+CUST45,Asia
+CUST46,North America
+CUST47,Europe
+CUST48,North America
+CUST49,North America
+CUST50,South America
+CUST51,Asia
+CUST52,North America
+CUST53,North America
+CUST54,Australia
+CUST55,Australia
+CUST56,North America
+CUST57,South America
+CUST58,North America
+CUST59,Europe
+CUST60,Asia
+CUST61,South America
+CUST62,Australia
+CUST63,Asia
+CUST64,Europe
+CUST65,South America
+CUST66,South America
+CUST67,South America
+CUST68,Australia
+CUST69,Asia
+CUST70,Europe
+CUST71,North America
+CUST72,North America
+CUST73,North America
+CUST74,Asia
+CUST75,South America
+CUST76,Europe
+CUST77,Australia
+CUST78,South America
+CUST79,Australia
+CUST80,South America
+CUST81,North America
+CUST82,South America
+CUST83,North America
+CUST84,North America
+CUST85,Europe
+CUST86,Europe
+CUST87,Australia
+CUST88,Australia
+CUST89,Asia
+CUST90,Asia
+CUST91,Australia
+CUST92,Europe
+CUST93,North America
+CUST94,Asia
+CUST95,Europe
+CUST96,North America
+CUST97,Asia
+CUST98,Europe
+CUST99,Australia
+CUST100,Europe
+CUST101,Asia
+CUST102,North America
+CUST103,Asia
+CUST104,South America
+CUST105,Australia
+CUST106,South America
+CUST107,Asia
+CUST108,Asia
+CUST109,Europe
+CUST110,Europe
+CUST111,South America
+CUST112,Europe
+CUST113,Europe
+CUST114,South America
+CUST115,Europe
+CUST116,South America
+CUST117,North America
+CUST118,South America
+CUST119,Europe
+CUST120,Australia
+CUST121,Australia
+CUST122,South America
+CUST123,Australia
+CUST124,Australia
+CUST125,Europe
+CUST126,North America
+CUST127,North America
+CUST128,Europe
+CUST129,North America
+CUST130,South America
+CUST131,North America
+CUST132,Australia
+CUST133,Europe
+CUST134,Asia
+CUST135,Australia
+CUST136,Australia
+CUST137,South America
+CUST138,Asia
+CUST139,South America
+CUST140,Europe
+CUST141,Asia
+CUST142,Europe
+CUST143,North America
+CUST144,Australia
+CUST145,North America
+CUST146,Europe
+CUST147,South America
+CUST148,Australia
+CUST149,Australia
+CUST150,Asia
+CUST151,North America
+CUST152,Europe
+CUST153,Europe
+CUST154,Europe
+CUST155,Europe
+CUST156,South America
+CUST157,Europe
+CUST158,South America
+CUST159,South America
+CUST160,Asia
+CUST161,Asia
+CUST162,North America
+CUST163,Europe
+CUST164,South America
+CUST165,Asia
+CUST166,Europe
+CUST167,Asia
+CUST168,Asia
+CUST169,North America
+CUST170,South America
+CUST171,South America
+CUST172,Asia
+CUST173,Europe
+CUST174,South America
+CUST175,North America
+CUST176,South America
+CUST177,North America
+CUST178,Europe
+CUST179,Asia
+CUST180,Europe
+CUST181,Europe
+CUST182,North America
+CUST183,Europe
+CUST184,Asia
+CUST185,South America
+CUST186,North America
+CUST187,North America
+CUST188,Europe
+CUST189,Europe
+CUST190,Europe
+CUST191,Australia
+CUST192,Asia
+CUST193,Europe
+CUST194,Australia
+CUST195,North America
+CUST196,Asia
+CUST197,Australia
+CUST198,North America
+CUST199,South America
+CUST200,South America
+CUST201,Asia
+CUST202,Australia
+CUST203,Australia
+CUST204,North America
+CUST205,South America
+CUST206,South America
+CUST207,Europe
+CUST208,Australia
+CUST209,Asia
+CUST210,South America
+CUST211,Asia
+CUST212,Asia
+CUST213,Europe
+CUST214,South America
+CUST215,Asia
+CUST216,South America
+CUST217,Europe
+CUST218,North America
+CUST219,North America
+CUST220,North America
+CUST221,Asia
+CUST222,Asia
+CUST223,Asia
+CUST224,South America
+CUST225,Australia
+CUST226,South America
+CUST227,North America
+CUST228,Australia
+CUST229,Europe
+CUST230,Australia
+CUST231,Europe
+CUST232,Asia
+CUST233,North America
+CUST234,Asia
+CUST235,South America
+CUST236,Asia
+CUST237,Asia
+CUST238,Australia
+CUST239,Europe
+CUST240,North America
+CUST241,Asia
+CUST242,Asia
+CUST243,Europe
+CUST244,South America
+CUST245,South America
+CUST246,Australia
+CUST247,Europe
+CUST248,Asia
+CUST249,South America
+CUST250,South America
+CUST251,North America
+CUST252,North America
+CUST253,Australia
+CUST254,South America
+CUST255,South America
+CUST256,Europe
+CUST257,North America
+CUST258,North America
+CUST259,South America
+CUST260,Australia
+CUST261,South America
+CUST262,Asia
+CUST263,North America
+CUST264,North America
+CUST265,Europe
+CUST266,Australia
+CUST267,Europe
+CUST268,North America
+CUST269,Australia
+CUST270,South America
+CUST271,South America
+CUST272,Australia
+CUST273,Asia
+CUST274,South America
+CUST275,Europe
+CUST276,South America
+CUST277,South America
+CUST278,Asia
+CUST279,South America
+CUST280,Europe
+CUST281,Europe
+CUST282,Europe
+CUST283,North America
+CUST284,South America
+CUST285,South America
+CUST286,Australia
+CUST287,Asia
+CUST288,North America
+CUST289,South America
+CUST290,Europe
+CUST291,North America
+CUST292,North America
+CUST293,Europe
+CUST294,Australia
+CUST295,South America
+CUST296,Asia
+CUST297,Australia
+CUST298,Asia
+CUST299,Asia
+CUST300,South America
+CUST301,North America
+CUST302,Europe
+CUST303,Asia
+CUST304,Australia
+CUST305,South America
+CUST306,South America
+CUST307,Australia
+CUST308,Asia
+CUST309,Asia
+CUST310,Asia
+CUST311,Australia
+CUST312,Asia
+CUST313,Australia
+CUST314,South America
+CUST315,Australia
+CUST316,Europe
+CUST317,North America
+CUST318,North America
+CUST319,Europe
+CUST320,Australia
+CUST321,North America
+CUST322,Europe
+CUST323,Asia
+CUST324,Europe
+CUST325,North America
+CUST326,Australia
+CUST327,Australia
+CUST328,Australia
+CUST329,North America
+CUST330,Asia
+CUST331,Australia
+CUST332,South America
+CUST333,Asia
+CUST334,Europe
+CUST335,South America
+CUST336,Asia
+CUST337,North America
+CUST338,South America
+CUST339,Asia
+CUST340,Asia
+CUST341,Asia
+CUST342,Asia
+CUST343,Australia
+CUST344,South America
+CUST345,Asia
+CUST346,Europe
+CUST347,Asia
+CUST348,Australia
+CUST349,South America
+CUST350,South America
+CUST351,Asia
+CUST352,Asia
+CUST353,Europe
+CUST354,South America
+CUST355,South America
+CUST356,South America
+CUST357,North America
+CUST358,South America
+CUST359,South America
+CUST360,Europe
+CUST361,Europe
+CUST362,Australia
+CUST363,Europe
+CUST364,South America
+CUST365,South America
+CUST366,South America
+CUST367,Europe
+CUST368,Asia
+CUST369,North America
+CUST370,Australia
+CUST371,Asia
+CUST372,North America
+CUST373,Europe
+CUST374,Australia
+CUST375,Australia
+CUST376,Europe
+CUST377,Asia
+CUST378,North America
+CUST379,South America
+CUST380,South America
+CUST381,North America
+CUST382,South America
+CUST383,Asia
+CUST384,Europe
+CUST385,South America
+CUST386,Europe
+CUST387,South America
+CUST388,South America
+CUST389,Australia
+CUST390,South America
+CUST391,Australia
+CUST392,North America
+CUST393,South America
+CUST394,South America
+CUST395,South America
+CUST396,Australia
+CUST397,South America
+CUST398,Asia
+CUST399,North America
+CUST400,Europe
+CUST401,Europe
+CUST402,Australia
+CUST403,North America
+CUST404,North America
+CUST405,Europe
+CUST406,Australia
+CUST407,Asia
+CUST408,North America
+CUST409,Europe
+CUST410,Asia
+CUST411,Asia
+CUST412,Asia
+CUST413,South America
+CUST414,Asia
+CUST415,Asia
+CUST416,Europe
+CUST417,Australia
+CUST418,South America
+CUST419,Europe
+CUST420,Europe
+CUST421,Asia
+CUST422,South America
+CUST423,Australia
+CUST424,Australia
+CUST425,Europe
+CUST426,South America
+CUST427,Europe
+CUST428,Europe
+CUST429,Australia
+CUST430,Australia
+CUST431,Europe
+CUST432,Australia
+CUST433,Australia
+CUST434,Asia
+CUST435,Asia
+CUST436,North America
+CUST437,North America
+CUST438,Europe
+CUST439,Europe
+CUST440,Europe
+CUST441,Europe
+CUST442,Australia
+CUST443,North America
+CUST444,Europe
+CUST445,Asia
+CUST446,Australia
+CUST447,North America
+CUST448,Australia
+CUST449,South America
+CUST450,Europe
+CUST451,Asia
+CUST452,North America
+CUST453,Australia
+CUST454,North America
+CUST455,South America
+CUST456,Asia
+CUST457,Australia
+CUST458,South America
+CUST459,Asia
+CUST460,Europe
+CUST461,North America
+CUST462,South America
+CUST463,North America
+CUST464,North America
+CUST465,South America
+CUST466,South America
+CUST467,Australia
+CUST468,Asia
+CUST469,Europe
+CUST470,Asia
+CUST471,Europe
+CUST472,Europe
+CUST473,Australia
+CUST474,Asia
+CUST475,South America
+CUST476,North America
+CUST477,Australia
+CUST478,Australia
+CUST479,Australia
+CUST480,South America
+CUST481,North America
+CUST482,Europe
+CUST483,South America
+CUST484,Asia
+CUST485,Asia
+CUST486,South America
+CUST487,Australia
+CUST488,South America
+CUST489,North America
+CUST490,Europe
+CUST491,Europe
+CUST492,Europe
+CUST493,Europe
+CUST494,Australia
+CUST495,Asia
+CUST496,Asia
+CUST497,South America
+CUST498,Europe
+CUST499,Asia
+CUST500,North America
+CUST501,South America
+CUST502,Australia
+CUST503,Asia
+CUST504,Europe
+CUST505,Australia
+CUST506,North America
+CUST507,North America
+CUST508,North America
+CUST509,Australia
+CUST510,Asia
+CUST511,Asia
+CUST512,Europe
+CUST513,Australia
+CUST514,Asia
+CUST515,South America
+CUST516,Europe
+CUST517,Asia
+CUST518,South America
+CUST519,Europe
+CUST520,North America
+CUST521,North America
+CUST522,South America
+CUST523,North America
+CUST524,South America
+CUST525,Europe
+CUST526,Asia
+CUST527,Europe
+CUST528,South America
+CUST529,Australia
+CUST530,Australia
+CUST531,South America
+CUST532,North America
+CUST533,South America
+CUST534,Asia
+CUST535,Europe
+CUST536,South America
+CUST537,Asia
+CUST538,Australia
+CUST539,South America
+CUST540,North America
+CUST541,South America
+CUST542,Australia
+CUST543,Asia
+CUST544,South America
+CUST545,South America
+CUST546,North America
+CUST547,South America
+CUST548,Europe
+CUST549,South America
+CUST550,Asia
+CUST551,Europe
+CUST552,North America
+CUST553,Asia
+CUST554,North America
+CUST555,South America
+CUST556,South America
+CUST557,South America
+CUST558,Australia
+CUST559,Australia
+CUST560,Australia
+CUST561,Europe
+CUST562,Australia
+CUST563,South America
+CUST564,South America
+CUST565,North America
+CUST566,Asia
+CUST567,Asia
+CUST568,Europe
+CUST569,Asia
+CUST570,Europe
+CUST571,North America
+CUST572,South America
+CUST573,South America
+CUST574,Europe
+CUST575,Australia
+CUST576,North America
+CUST577,South America
+CUST578,South America
+CUST579,North America
+CUST580,Europe
+CUST581,Australia
+CUST582,Europe
+CUST583,North America
+CUST584,Asia
+CUST585,Europe
+CUST586,Asia
+CUST587,North America
+CUST588,Asia
+CUST589,South America
+CUST590,Asia
+CUST591,Australia
+CUST592,Australia
+CUST593,North America
+CUST594,Australia
+CUST595,Asia
+CUST596,South America
+CUST597,North America
+CUST598,Europe
+CUST599,South America
+CUST600,Europe
+CUST601,North America
+CUST602,Europe
+CUST603,South America
+CUST604,Australia
+CUST605,North America
+CUST606,Australia
+CUST607,Australia
+CUST608,Australia
+CUST609,South America
+CUST610,Asia
+CUST611,Australia
+CUST612,Asia
+CUST613,North America
+CUST614,Europe
+CUST615,Australia
+CUST616,Asia
+CUST617,North America
+CUST618,South America
+CUST619,North America
+CUST620,South America
+CUST621,Europe
+CUST622,Europe
+CUST623,Asia
+CUST624,South America
+CUST625,South America
+CUST626,Europe
+CUST627,North America
+CUST628,North America
+CUST629,Asia
+CUST630,Europe
+CUST631,Europe
+CUST632,Australia
+CUST633,Asia
+CUST634,Europe
+CUST635,Australia
+CUST636,South America
+CUST637,Australia
+CUST638,Europe
+CUST639,North America
+CUST640,Asia
+CUST641,South America
+CUST642,North America
+CUST643,Asia
+CUST644,South America
+CUST645,South America
+CUST646,Europe
+CUST647,Australia
+CUST648,North America
+CUST649,Australia
+CUST650,Europe
+CUST651,Europe
+CUST652,North America
+CUST653,South America
+CUST654,Asia
+CUST655,South America
+CUST656,Australia
+CUST657,North America
+CUST658,Europe
+CUST659,South America
+CUST660,North America
+CUST661,Asia
+CUST662,Europe
+CUST663,South America
+CUST664,Europe
+CUST665,Australia
+CUST666,Asia
+CUST667,Asia
+CUST668,Asia
+CUST669,Australia
+CUST670,South America
+CUST671,South America
+CUST672,South America
+CUST673,South America
+CUST674,South America
+CUST675,North America
+CUST676,Australia
+CUST677,Asia
+CUST678,South America
+CUST679,South America
+CUST680,Asia
+CUST681,Asia
+CUST682,North America
+CUST683,Australia
+CUST684,Europe
+CUST685,North America
+CUST686,Europe
+CUST687,North America
+CUST688,Australia
+CUST689,Australia
+CUST690,Europe
+CUST691,South America
+CUST692,South America
+CUST693,South America
+CUST694,Europe
+CUST695,South America
+CUST696,Asia
+CUST697,Asia
+CUST698,Australia
+CUST699,Europe
+CUST700,South America
+CUST701,Asia
+CUST702,South America
+CUST703,North America
+CUST704,South America
+CUST705,Australia
+CUST706,North America
+CUST707,Europe
+CUST708,South America
+CUST709,South America
+CUST710,North America
+CUST711,Australia
+CUST712,Australia
+CUST713,Australia
+CUST714,Europe
+CUST715,North America
+CUST716,Asia
+CUST717,Europe
+CUST718,Australia
+CUST719,Australia
+CUST720,South America
+CUST721,Europe
+CUST722,North America
+CUST723,Australia
+CUST724,Asia
+CUST725,South America
+CUST726,North America
+CUST727,North America
+CUST728,North America
+CUST729,South America
+CUST730,Asia
+CUST731,Australia
+CUST732,South America
+CUST733,South America
+CUST734,Asia
+CUST735,North America
+CUST736,Australia
+CUST737,Europe
+CUST738,North America
+CUST739,North America
+CUST740,Asia
+CUST741,Europe
+CUST742,Australia
+CUST743,Australia
+CUST744,Australia
+CUST745,Asia
+CUST746,Europe
+CUST747,Europe
+CUST748,North America
+CUST749,South America
+CUST750,Europe
+CUST751,Australia
+CUST752,Australia
+CUST753,South America
+CUST754,South America
+CUST755,North America
+CUST756,North America
+CUST757,Asia
+CUST758,Australia
+CUST759,Asia
+CUST760,Australia
+CUST761,Asia
+CUST762,North America
+CUST763,Europe
+CUST764,South America
+CUST765,Australia
+CUST766,North America
+CUST767,North America
+CUST768,North America
+CUST769,Asia
+CUST770,South America
+CUST771,North America
+CUST772,Asia
+CUST773,North America
+CUST774,Asia
+CUST775,Europe
+CUST776,Asia
+CUST777,Australia
+CUST778,South America
+CUST779,Asia
+CUST780,South America
+CUST781,Asia
+CUST782,South America
+CUST783,Europe
+CUST784,Australia
+CUST785,Australia
+CUST786,Australia
+CUST787,Asia
+CUST788,Australia
+CUST789,North America
+CUST790,North America
+CUST791,Australia
+CUST792,Australia
+CUST793,Asia
+CUST794,Australia
+CUST795,South America
+CUST796,Europe
+CUST797,Asia
+CUST798,Asia
+CUST799,North America
+CUST800,Asia
+CUST801,Asia
+CUST802,Europe
+CUST803,South America
+CUST804,Europe
+CUST805,South America
+CUST806,North America
+CUST807,Europe
+CUST808,Europe
+CUST809,Europe
+CUST810,Australia
+CUST811,Australia
+CUST812,Europe
+CUST813,Asia
+CUST814,North America
+CUST815,Asia
+CUST816,North America
+CUST817,North America
+CUST818,Australia
+CUST819,North America
+CUST820,Europe
+CUST821,Europe
+CUST822,North America
+CUST823,Australia
+CUST824,Asia
+CUST825,Australia
+CUST826,Australia
+CUST827,Asia
+CUST828,Europe
+CUST829,South America
+CUST830,Australia
+CUST831,Europe
+CUST832,North America
+CUST833,Australia
+CUST834,Australia
+CUST835,North America
+CUST836,South America
+CUST837,South America
+CUST838,Asia
+CUST839,North America
+CUST840,Europe
+CUST841,Europe
+CUST842,South America
+CUST843,Asia
+CUST844,Asia
+CUST845,Europe
+CUST846,Asia
+CUST847,South America
+CUST848,South America
+CUST849,Asia
+CUST850,South America
+CUST851,South America
+CUST852,Asia
+CUST853,South America
+CUST854,North America
+CUST855,South America
+CUST856,Australia
+CUST857,Europe
+CUST858,North America
+CUST859,Asia
+CUST860,Europe
+CUST861,Australia
+CUST862,Europe
+CUST863,South America
+CUST864,Europe
+CUST865,Asia
+CUST866,South America
+CUST867,South America
+CUST868,Australia
+CUST869,Europe
+CUST870,Australia
+CUST871,South America
+CUST872,South America
+CUST873,Australia
+CUST874,South America
+CUST875,Europe
+CUST876,North America
+CUST877,Australia
+CUST878,Asia
+CUST879,North America
+CUST880,Asia
+CUST881,South America
+CUST882,North America
+CUST883,South America
+CUST884,South America
+CUST885,Australia
+CUST886,Asia
+CUST887,Europe
+CUST888,Australia
+CUST889,Australia
+CUST890,Asia
+CUST891,Australia
+CUST892,Asia
+CUST893,Australia
+CUST894,North America
+CUST895,Asia
+CUST896,Europe
+CUST897,Australia
+CUST898,North America
+CUST899,Europe
+CUST900,Australia
+CUST901,Australia
+CUST902,South America
+CUST903,Australia
+CUST904,Europe
+CUST905,Europe
+CUST906,North America
+CUST907,South America
+CUST908,North America
+CUST909,North America
+CUST910,Australia
+CUST911,North America
+CUST912,Asia
+CUST913,South America
+CUST914,Australia
+CUST915,Asia
+CUST916,Europe
+CUST917,South America
+CUST918,Europe
+CUST919,Europe
+CUST920,Australia
+CUST921,Asia
+CUST922,South America
+CUST923,Australia
+CUST924,North America
+CUST925,South America
+CUST926,Australia
+CUST927,South America
+CUST928,South America
+CUST929,Australia
+CUST930,Europe
+CUST931,Europe
+CUST932,Australia
+CUST933,South America
+CUST934,Europe
+CUST935,Asia
+CUST936,North America
+CUST937,North America
+CUST938,Asia
+CUST939,Asia
+CUST940,Asia
+CUST941,South America
+CUST942,Europe
+CUST943,Asia
+CUST944,Australia
+CUST945,North America
+CUST946,North America
+CUST947,Asia
+CUST948,Europe
+CUST949,Asia
+CUST950,Australia
+CUST951,Asia
+CUST952,South America
+CUST953,Asia
+CUST954,South America
+CUST955,Europe
+CUST956,Europe
+CUST957,Australia
+CUST958,Europe
+CUST959,South America
+CUST960,Europe
+CUST961,South America
+CUST962,Australia
+CUST963,South America
+CUST964,Asia
+CUST965,Europe
+CUST966,North America
+CUST967,Asia
+CUST968,South America
+CUST969,Asia
+CUST970,Asia
+CUST971,Asia
+CUST972,Asia
+CUST973,South America
+CUST974,Europe
+CUST975,Europe
+CUST976,Asia
+CUST977,North America
+CUST978,Europe
+CUST979,South America
+CUST980,South America
+CUST981,Europe
+CUST982,South America
+CUST983,South America
+CUST984,Australia
+CUST985,South America
+CUST986,Europe
+CUST987,Europe
+CUST988,North America
+CUST989,Asia
+CUST990,Europe
+CUST991,South America
+CUST992,North America
+CUST993,Australia
+CUST994,North America
+CUST995,South America
+CUST996,Europe
+CUST997,North America
+CUST998,South America
+CUST999,Australia
+CUST1000,North America
+CUST1001,South America
+CUST1002,Asia
+CUST1003,Europe
+CUST1004,South America
+CUST1005,Asia
+CUST1006,Europe
+CUST1007,Europe
+CUST1008,Europe
+CUST1009,Asia
+CUST1010,North America
+CUST1011,Asia
+CUST1012,Asia
+CUST1013,South America
+CUST1014,South America
+CUST1015,Australia
+CUST1016,Asia
+CUST1017,Asia
+CUST1018,Australia
+CUST1019,Asia
+CUST1020,Asia
+CUST1021,Australia
+CUST1022,Australia
+CUST1023,Australia
+CUST1024,Europe
+CUST1025,South America
+CUST1026,Australia
+CUST1027,Europe
+CUST1028,South America
+CUST1029,Australia
+CUST1030,Asia
+CUST1031,Asia
+CUST1032,South America
+CUST1033,North America
+CUST1034,South America
+CUST1035,Europe
+CUST1036,Asia
+CUST1037,Asia
+CUST1038,Australia
+CUST1039,Europe
+CUST1040,North America
+CUST1041,Europe
+CUST1042,Europe
+CUST1043,Europe
+CUST1044,Europe
+CUST1045,North America
+CUST1046,Europe
+CUST1047,North America
+CUST1048,South America
+CUST1049,Europe
+CUST1050,Australia
+CUST1051,North America
+CUST1052,North America
+CUST1053,Europe
+CUST1054,Australia
+CUST1055,Australia
+CUST1056,Europe
+CUST1057,Australia
+CUST1058,North America
+CUST1059,Europe
+CUST1060,Europe
+CUST1061,Europe
+CUST1062,South America
+CUST1063,Europe
+CUST1064,Asia
+CUST1065,Asia
+CUST1066,North America
+CUST1067,South America
+CUST1068,South America
+CUST1069,Australia
+CUST1070,Europe
+CUST1071,Asia
+CUST1072,South America
+CUST1073,Asia
+CUST1074,Asia
+CUST1075,Europe
+CUST1076,Asia
+CUST1077,North America
+CUST1078,North America
+CUST1079,South America
+CUST1080,South America
+CUST1081,Australia
+CUST1082,Asia
+CUST1083,South America
+CUST1084,Europe
+CUST1085,South America
+CUST1086,North America
+CUST1087,Asia
+CUST1088,North America
+CUST1089,South America
+CUST1090,South America
+CUST1091,North America
+CUST1092,Australia
+CUST1093,Australia
+CUST1094,South America
+CUST1095,Australia
+CUST1096,North America
+CUST1097,Asia
+CUST1098,South America
+CUST1099,Europe
+CUST1100,Australia
+CUST1101,Australia
+CUST1102,Europe
+CUST1103,Europe
+CUST1104,North America
+CUST1105,North America
+CUST1106,Australia
+CUST1107,Asia
+CUST1108,North America
+CUST1109,North America
+CUST1110,South America
+CUST1111,South America
+CUST1112,North America
+CUST1113,Asia
+CUST1114,Australia
+CUST1115,Europe
+CUST1116,North America
+CUST1117,Asia
+CUST1118,Asia
+CUST1119,Asia
+CUST1120,North America
+CUST1121,North America
+CUST1122,Asia
+CUST1123,Asia
+CUST1124,North America
+CUST1125,Australia
+CUST1126,North America
+CUST1127,South America
+CUST1128,Asia
+CUST1129,Australia
+CUST1130,Europe
+CUST1131,North America
+CUST1132,Asia
+CUST1133,North America
+CUST1134,Europe
+CUST1135,North America
+CUST1136,Australia
+CUST1137,Europe
+CUST1138,South America
+CUST1139,South America
+CUST1140,Asia
+CUST1141,South America
+CUST1142,North America
+CUST1143,Australia
+CUST1144,South America
+CUST1145,Asia
+CUST1146,North America
+CUST1147,Asia
+CUST1148,Asia
+CUST1149,Australia
+CUST1150,Australia
+CUST1151,Asia
+CUST1152,Asia
+CUST1153,South America
+CUST1154,South America
+CUST1155,Europe
+CUST1156,Australia
+CUST1157,South America
+CUST1158,Asia
+CUST1159,South America
+CUST1160,Europe
+CUST1161,South America
+CUST1162,Asia
+CUST1163,South America
+CUST1164,South America
+CUST1165,Australia
+CUST1166,Australia
+CUST1167,Europe
+CUST1168,Europe
+CUST1169,South America
+CUST1170,Australia
+CUST1171,Australia
+CUST1172,South America
+CUST1173,Australia
+CUST1174,North America
+CUST1175,Asia
+CUST1176,North America
+CUST1177,North America
+CUST1178,North America
+CUST1179,Australia
+CUST1180,South America
+CUST1181,Europe
+CUST1182,Asia
+CUST1183,Asia
+CUST1184,North America
+CUST1185,Europe
+CUST1186,South America
+CUST1187,Europe
+CUST1188,Europe
+CUST1189,Asia
+CUST1190,Australia
+CUST1191,North America
+CUST1192,Australia
+CUST1193,Asia
+CUST1194,Europe
+CUST1195,North America
+CUST1196,South America
+CUST1197,South America
+CUST1198,Europe
+CUST1199,Australia
+CUST1200,Australia
+CUST1201,North America
+CUST1202,Asia
+CUST1203,Australia
+CUST1204,South America
+CUST1205,South America
+CUST1206,South America
+CUST1207,Australia
+CUST1208,Europe
+CUST1209,Australia
+CUST1210,Australia
+CUST1211,North America
+CUST1212,Asia
+CUST1213,Australia
+CUST1214,Australia
+CUST1215,Asia
+CUST1216,South America
+CUST1217,Asia
+CUST1218,Australia
+CUST1219,Europe
+CUST1220,North America
+CUST1221,North America
+CUST1222,Asia
+CUST1223,Asia
+CUST1224,South America
+CUST1225,North America
+CUST1226,Asia
+CUST1227,Australia
+CUST1228,Australia
+CUST1229,Europe
+CUST1230,Europe
+CUST1231,Asia
+CUST1232,South America
+CUST1233,South America
+CUST1234,South America
+CUST1235,South America
+CUST1236,North America
+CUST1237,South America
+CUST1238,Europe
+CUST1239,Europe
+CUST1240,North America
+CUST1241,Asia
+CUST1242,Australia
+CUST1243,Europe
+CUST1244,Europe
+CUST1245,North America
+CUST1246,Europe
+CUST1247,Australia
+CUST1248,North America
+CUST1249,South America
+CUST1250,South America
+CUST1251,South America
+CUST1252,Australia
+CUST1253,Asia
+CUST1254,Europe
+CUST1255,Australia
+CUST1256,Asia
+CUST1257,North America
+CUST1258,Australia
+CUST1259,North America
+CUST1260,Asia
+CUST1261,Australia
+CUST1262,Europe
+CUST1263,Asia
+CUST1264,Europe
+CUST1265,North America
+CUST1266,Europe
+CUST1267,Australia
+CUST1268,Australia
+CUST1269,South America
+CUST1270,Europe
+CUST1271,South America
+CUST1272,Asia
+CUST1273,North America
+CUST1274,Asia
+CUST1275,North America
+CUST1276,Europe
+CUST1277,Australia
+CUST1278,Europe
+CUST1279,North America
+CUST1280,South America
+CUST1281,North America
+CUST1282,South America
+CUST1283,Asia
+CUST1284,Australia
+CUST1285,Asia
+CUST1286,Europe
+CUST1287,South America
+CUST1288,South America
+CUST1289,Asia
+CUST1290,Australia
+CUST1291,Australia
+CUST1292,Asia
+CUST1293,Australia
+CUST1294,Europe
+CUST1295,North America
+CUST1296,South America
+CUST1297,South America
+CUST1298,South America
+CUST1299,North America
+CUST1300,Europe
+CUST1301,Asia
+CUST1302,Australia
+CUST1303,Australia
+CUST1304,North America
+CUST1305,South America
+CUST1306,Australia
+CUST1307,Asia
+CUST1308,Australia
+CUST1309,South America
+CUST1310,Asia
+CUST1311,South America
+CUST1312,South America
+CUST1313,North America
+CUST1314,South America
+CUST1315,Asia
+CUST1316,North America
+CUST1317,North America
+CUST1318,Asia
+CUST1319,North America
+CUST1320,Asia
+CUST1321,Australia
+CUST1322,North America
+CUST1323,Australia
+CUST1324,North America
+CUST1325,South America
+CUST1326,Asia
+CUST1327,South America
+CUST1328,Australia
+CUST1329,Asia
+CUST1330,Asia
+CUST1331,Australia
+CUST1332,Asia
+CUST1333,Asia
+CUST1334,North America
+CUST1335,Europe
+CUST1336,South America
+CUST1337,Europe
+CUST1338,Asia
+CUST1339,Europe
+CUST1340,North America
+CUST1341,Australia
+CUST1342,Australia
+CUST1343,Europe
+CUST1344,North America
+CUST1345,Australia
+CUST1346,Europe
+CUST1347,Europe
+CUST1348,South America
+CUST1349,North America
+CUST1350,South America
+CUST1351,Europe
+CUST1352,South America
+CUST1353,South America
+CUST1354,Europe
+CUST1355,Australia
+CUST1356,Asia
+CUST1357,Australia
+CUST1358,North America
+CUST1359,Australia
+CUST1360,Europe
+CUST1361,South America
+CUST1362,North America
+CUST1363,North America
+CUST1364,North America
+CUST1365,South America
+CUST1366,Australia
+CUST1367,South America
+CUST1368,Asia
+CUST1369,North America
+CUST1370,Europe
+CUST1371,South America
+CUST1372,North America
+CUST1373,South America
+CUST1374,South America
+CUST1375,Australia
+CUST1376,South America
+CUST1377,Europe
+CUST1378,Asia
+CUST1379,Asia
+CUST1380,South America
+CUST1381,South America
+CUST1382,South America
+CUST1383,Asia
+CUST1384,South America
+CUST1385,Australia
+CUST1386,South America
+CUST1387,Europe
+CUST1388,Europe
+CUST1389,Asia
+CUST1390,Europe
+CUST1391,Asia
+CUST1392,Europe
+CUST1393,Asia
+CUST1394,North America
+CUST1395,Europe
+CUST1396,South America
+CUST1397,Asia
+CUST1398,Asia
+CUST1399,Australia
+CUST1400,North America
+CUST1401,North America
+CUST1402,South America
+CUST1403,Asia
+CUST1404,North America
+CUST1405,North America
+CUST1406,Australia
+CUST1407,South America
+CUST1408,South America
+CUST1409,North America
+CUST1410,Europe
+CUST1411,Australia
+CUST1412,Europe
+CUST1413,Australia
+CUST1414,Europe
+CUST1415,South America
+CUST1416,Asia
+CUST1417,South America
+CUST1418,North America
+CUST1419,Europe
+CUST1420,North America
+CUST1421,South America
+CUST1422,Europe
+CUST1423,Australia
+CUST1424,Asia
+CUST1425,South America
+CUST1426,South America
+CUST1427,Asia
+CUST1428,South America
+CUST1429,Europe
+CUST1430,Europe
+CUST1431,South America
+CUST1432,Europe
+CUST1433,South America
+CUST1434,South America
+CUST1435,Australia
+CUST1436,Asia
+CUST1437,Europe
+CUST1438,Asia
+CUST1439,Australia
+CUST1440,North America
+CUST1441,South America
+CUST1442,Europe
+CUST1443,North America
+CUST1444,North America
+CUST1445,Europe
+CUST1446,North America
+CUST1447,South America
+CUST1448,South America
+CUST1449,South America
+CUST1450,Australia
+CUST1451,North America
+CUST1452,South America
+CUST1453,Australia
+CUST1454,South America
+CUST1455,South America
+CUST1456,Europe
+CUST1457,South America
+CUST1458,South America
+CUST1459,South America
+CUST1460,South America
+CUST1461,South America
+CUST1462,Asia
+CUST1463,Asia
+CUST1464,Australia
+CUST1465,Australia
