@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The **Amazon Sales Data Analysis** project is a comprehensive data science initiative focused on extracting valuable insights from Amazon sales data. This project combines various data analysis techniques, including exploratory data analysis (EDA), feature engineering, statistical modeling, and data visualization, utilizing Python for analysis and Tableau for creating interactive dashboards.
+This project is part of my internship at **Unified Mentors**, where I am working on analyzing sales data from Amazon's platform to extract valuable insights into product performance, customer behavior, and pricing strategies. The primary goal is to use data analysis to understand sales trends, customer preferences, and product performance, and to build predictive models for forecasting future sales. This project involves cleaning and exploring the data, creating new features, and developing an interactive dashboard using Tableau to visualize key metrics and insights.
 
 ## Objectives
 
