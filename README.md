@@ -78,6 +78,10 @@ An interactive Tableau dashboard was created to visualize key insights, includin
 
 To ensure continued performance, a logging and monitoring system captures application events, errors, and user interactions.
 
+## Internship Acknowledgment
+
+This project is part of my internship with Unified Mentors, where I am gaining hands-on experience in data science, web development, and predictive modeling. During the internship, I’ve developed this project to analyze Amazon sales data and create a robust system for data-driven decision-making.
+
 ## Conclusion
 
 The **Amazon Sales Data Analysis** project successfully progressed from initial data analysis to a fully deployed and monitored predictive system. This project demonstrates the power of data science in e-commerce, providing valuable insights for data-driven decision-making.
