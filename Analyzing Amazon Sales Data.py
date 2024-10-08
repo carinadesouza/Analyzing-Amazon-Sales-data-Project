@@ -87,10 +87,10 @@ def retrain_model():
     dates = pd.date_range(start='2023-01-01', periods=len(orders_df), freq='D')
     orders_df['date'] = np.random.choice(dates, size=len(orders_df))
 
-    # Save the simulated orders dataset to a CSV file
+    # Saving the simulated orders dataset to a CSV file
     orders_df.to_csv('orders.csv', index=False)
 
-    # Save the product dataset
+    # Saving the product dataset
     products_df = df[['product_id', 'product_name', 'category', 'discounted_price', 'actual_price', 'discount_percentage', 'rating', 'rating_count']].copy()
     products_df.to_csv('products.csv', index=False)
 
@@ -100,7 +100,7 @@ def retrain_model():
         'location': np.random.choice(['North America', 'Europe', 'Asia', 'South America', 'Australia'], size=len(orders_df))
     })
 
-    # Save the simulated customers dataset to a CSV file
+    # Saving the simulated customers dataset to a CSV file
     customers_df.to_csv('customers.csv', index=False)
 
     # Load and Preview the simulated datasets
@@ -157,7 +157,7 @@ def retrain_model():
     print("\nMerged dataset preview:")
     print(data.head())
     
-    # Save the merged dataset for analysis
+    # Saving the merged dataset for analysis
     data.to_csv('merged_data.csv', index=False)
 
 
@@ -188,8 +188,8 @@ def retrain_model():
     plt.title('Top 10 Selling Products')
     plt.xlabel('Product Name')
     plt.ylabel('Total Sales Amount')
-    plt.xticks(rotation=45, ha='right')  # Rotate x-axis labels for better visibility
-    plt.tight_layout(pad=2)  # Adjust padding
+    plt.xticks(rotation=45, ha='right')  
+    plt.tight_layout(pad=2) 
     plt.show()
 
     # Define features and target variable
@@ -231,7 +231,7 @@ def retrain_model():
         plt.tight_layout()
         plt.show()
 
-        # Save the trained model to a file
+        # Saving the trained model to a file
         joblib.dump(model, 'model.pkl')
         logging.info('Model retraining completed and saved.')
 
