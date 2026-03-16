@@ -5,7 +5,7 @@
 This project is part of my internship at **Unified Mentors**, where I am working on analyzing sales data from Amazon's platform to extract valuable insights into product performance, customer behavior, and pricing strategies. The primary goal is to use data analysis to understand sales trends, customer preferences, and product performance, and to build predictive models for forecasting future sales. This project involves cleaning and exploring the data, creating new features, and developing an interactive dashboard using Tableau to visualize key metrics and insights.
 
 ## Objectives
-
+  
 The primary objectives of this project are:
 1. Analyze sales performance trends over time.
 2. Identify top N-selling products.
